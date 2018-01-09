@@ -3,4 +3,5 @@ function theBeatlesPlay(mArray, iArray) {
   for (idx = 0; i < mArray; idx++) {
     array.push(`${mArray[idx]} plays ${iArray[idx]}`)
   }
+  return array
 }
